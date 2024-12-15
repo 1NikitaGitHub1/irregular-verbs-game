@@ -1,0 +1,21 @@
+encouragements = [
+    "Well done!",
+    "Good job!",
+    "Great work!",
+    "Keep it up!",
+    "Fantastic!",
+    "Amazing!",
+    "Excellent!",
+    "You’re doing great!",
+    "Way to go!",
+    "Superb!",
+    "You’re really improving!",
+    "You’re a star!",
+    "You’re so smart!",
+    "What a great idea!",
+    "You did it!",
+    "Awesome!",
+    "Nice one!",
+    "Cool!",
+    "That’s impressive!"
+  ]
